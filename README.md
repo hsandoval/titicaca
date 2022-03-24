@@ -1,2 +1,2 @@
 # titicaca 
-web titicaca
+web titicaca.
